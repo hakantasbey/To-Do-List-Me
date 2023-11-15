@@ -51,3 +51,36 @@ h1{
     color: white;
 }
 
+ul{
+    margin-top: 1rem;
+}
+
+/*! JS icin css */
+
+.liJs{
+    list-style-type: none;
+    background-color: #5a0404;
+    color: white;
+    padding: .3rem;
+    border-radius: 8px;
+    position: relative;
+    margin-bottom: .5rem;
+    font-size: larger;
+    cursor: pointer;
+}
+
+.spanJs{
+    position: absolute;
+    right: 5px;
+    color: white;
+}
+
+.liJs-checked{
+    text-decoration: line-through;
+    color: green;
+}
+
+
+
+
+
