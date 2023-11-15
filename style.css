@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #bcb9bd;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 2px solid red;
+    padding: 1rem;
+}
+
+h1{
+    margin-bottom: 0.5rem;
+}
+
+.input{
+    border: none;
+    outline: none;
+    line-height: 2rem;
+    border-radius: 8px;
+}
