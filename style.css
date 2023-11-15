@@ -26,4 +26,28 @@ h1{
     outline: none;
     line-height: 2rem;
     border-radius: 8px;
+    margin-right: 1rem;
+    padding: .3rem;
 }
+
+.add{
+    border: none;
+    outline: none;
+    line-height: 2rem;
+    border-radius: 8px;
+    margin-right: .5rem;
+    padding: .2rem .6rem;
+    background-color: rgb(6, 103, 43);
+    color: white;
+}
+
+.clear{
+    border: none;
+    outline: none;
+    line-height: 2rem;
+    border-radius: 8px;
+    padding: .2rem .6rem;
+    background-color: #9d0707;
+    color: white;
+}
+
